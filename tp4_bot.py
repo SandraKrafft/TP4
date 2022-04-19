@@ -132,5 +132,5 @@ async def on_member_join(member):
         f'Hi {member.name}, welcome to my Discord server!'
     )
 
-bot.run("OTU4Njk0MDkzNzg4MTg0NTc2.YkRDcw.CZSfxB-XsM3IpK0jyE5TaSSFmGA")
+bot.run("TOKEN")
 """
